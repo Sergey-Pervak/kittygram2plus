@@ -1,0 +1,29 @@
+{
+    "username": "Tolkien",
+    "password": "qwerty12345!"
+}
+
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczMjIwMzU1MiwianRpIjoiM2QzNGZlYTMzZjUxNDRmYjlkZTcyMWU4ZmEzNDhhOTAiLCJ1c2VyX2lkIjoxfQ.2NRUlJNrxO_HwSxWtb_dAiWnOJRZdTaPKRxmdoL5ao0",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzMyMjAzNTUyLCJqdGkiOiIxNDJkNThmNGI4Y2E0ZDMzYmM3YWM3ZDIxMGRiZjhkMiIsInVzZXJfaWQiOjF9.vwW4h6v4gmV7GrAUoeqEDxBPeMYHocSRF5MYF1r_VIw"
+}
+
+{
+    "username": "Margarett",
+    "password": "qwerty12345!"
+}
+
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczMjIwMzU2OSwianRpIjoiOTg2NzZmMGFjYTU2NDE4YWE0NTc4OWYzMGEzOTUzZGIiLCJ1c2VyX2lkIjoyfQ.6CBatuJpl14JxLLMW-7PshkR5tNZRiwUllVXYoA-sF4",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzMyMjAzNTY5LCJqdGkiOiI2NjE4MGFlOGMxOWY0OTEzYmQ3MjNkYzA5NzQyYjZlZCIsInVzZXJfaWQiOjJ9.tsqJU0IJuqQ3t541deP98eXLsEnYQcWLs63jT6081Jg"
+}
+
+{
+    "username": "Paul",
+    "password": "qwerty12345!"
+}
+
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczMjIwMzU4MSwianRpIjoiYjJjMDc0NDg5OWM1NDJhOGFjMGU4MjFkZmIwYzRiODciLCJ1c2VyX2lkIjozfQ.-FY6xOsPjtqazrm7aaFrYbfSlKrfS4efdv6c1Ih8kfM",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzMyMjAzNTgxLCJqdGkiOiIyNjhiYmMxYjg3YzQ0Njc5YmVmYThhZjdmMzgzYTEzMiIsInVzZXJfaWQiOjN9.-oDSMf1vRcJ2HjKx4cPS9c_UYPc3mIWfGxYe6wdwyso"
+}
